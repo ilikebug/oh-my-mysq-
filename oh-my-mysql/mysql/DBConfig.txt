@@ -1,0 +1,17 @@
+{
+  "bd_content_db": {
+    "dbHost": "192.168.1.13",
+    "dbName": "bd_content_db",
+    "dbPort": "3306",
+    "dbPwd": "writer512",
+    "dbUser": "writer"
+  },
+"oh_my_mysql": {
+    "dbHost": "127.0.0.1",
+    "dbName": "oh_my_mysql",
+    "dbPort": "3306",
+    "dbPwd": "ye351016",
+    "dbUser": "root"
+  }
+
+}
